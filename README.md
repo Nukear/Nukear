@@ -11,7 +11,7 @@
 <br>Feel free to ask for cuddle and hide (C+H) at any time!
 <br>And if im not responding, highly probably im off game, send me a whisper and I will be there ASAP!
 <br><br>I have anger issues, tho. But I take my meds and try to be the most patient as possible! I know this is the internet and not everyone is having a nice day lately, so we should fight to stay gentle!
-<hr><br><a href="https://www.last.fm/user/UNFXZANT"><img src="https://lastfm-recently-played.vercel.app/api?user=UNFXZANT&count=1&bg_color=0&header_style=none&maxage=60" height="90px" style="border:none; align: right;"></a><h2>Socials;</h2>
+<hr><br><img src="https://lastfm-recently-played.vercel.app/api?user=UNFXZANT&count=1&bg_color=0&header_style=none&maxage=60" height="90px" style="border:none; align: right;"><h2>Socials;</h2>
 <h3><a href="https://nukear.tumblr.com" target="_blank">Tumblr</a> | <a href="https://bsky.app/profile/nukear.bsky.social" target="_blank">BlueSky</a></h3>I have more, but these are the ones I use the most. <br> (I am way too lying here, I do not use socials at all)
 <br><small><u>My discord is for close friends only!!!</u></small>
 </div>
