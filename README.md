@@ -1,7 +1,5 @@
 
-<div align="center">-------------------<br><big><b>Underdog.</b></big> <i>noun;</i>
-<br><q>a person who is expected to lose in a contest or conflict.</q>
-<br><q>a victim of social or political injustice.</q><br>-------------------<br> Yuh! that's me!!<hr>
+<div align="center"><img src="https://i.imgur.com/LmDWFu5.png" style="width:350px"><hr>
 | he/him | Aromantic Asexual|
 <br>| ♑︎☉ ♏︎↑ ♊︎☾ | Bard of Light. Derse dreamer |
 <br><br>Name's outside the screen is Kevin, and that one gray pixel horse I play with most of the time is my ponysona, Kenhorō.
@@ -13,5 +11,5 @@
 <br><br>I have anger issues, tho. But I take my meds and try to be the most patient as possible! I know this is the internet and not everyone is having a nice day lately, so we should fight to stay gentle!
 <hr><br><img src="https://lastfm-recently-played.vercel.app/api?user=UNFXZANT&count=1&bg_color=0&header_style=none&maxage=60" height="90px" style="border:none; align: right;"><h2>Socials;</h2>
 <h3><a href="https://nukear.tumblr.com" target="_blank">Tumblr</a> | <a href="https://bsky.app/profile/nukear.bsky.social" target="_blank">BlueSky</a></h3>I have more, but these are the ones I use the most. <br> (I am way too lying here, I do not use socials at all)
-<br><small><u>My discord is for close friends only!!!</u></small>
+<br><br>Also! Now I made a <a href="https://nukear.straw.page" target="_blank">StrawPage</a> because... funni!
 </div>
