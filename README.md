@@ -1,9 +1,6 @@
 <div align="center">
         <img src="https://underdog.nekoweb.org/assets/images/boop.gif"><br><img src="https://lastfm-recently-played.vercel.app/api?user=UNFXZANT&count=1&header_style=none&maxage=60&bg_color=111">
         <hr>
-        Kanaya deserved better.
-        <br>Gamzee did nothing wrong.
-        <br>I love them both so much...<hr>
         Hello! Inside Pony.Town my name is Kenhorō, I go by he/him and I am an adult (+20), in case you wondered that...
         <br>Nowadays I roam around the entire game map, but the homestuck zone is my home! (Yet, I'm not stuck there, unless stated otherwise...)
         <br><br>I am honestly not the most interesting pony around. But a chat is always nice! <br>Feel free to cuddle and hide, but in case I don't know you I will always appreciate asking first <small>(Because I am way too shy and I think I accidentally stole your seat or something... 🥀)</small>
